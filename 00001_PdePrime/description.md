@@ -5,7 +5,7 @@ _Nos contactaron para hacer un sistema que ayude a tomar decisiones sobre series
 En el sistema vamos a trabajar con series, de las cuales queremos saber cual es el nombre de la misma, quienes actúan en ella (y el orden de importancia), su presupuesto anual, cantidad de temporadas estimadas, el rating promedio que tiene y si está cancelada o no.
 También, de cada actor o actriz conocemos el nombre, cuál es su sueldo pretendido (anual) y qué restricciones tiene a la hora de trabajar. Por ejemplo, sabemos que el sueldo pretendido de Paul Rudd es de 41 millones al año y que sus restricciones son no actuar en bata y comer ensalada de rúcula todos los días.
 
-Resolver los siguientes requerimientos, maximizando el uso de **composición**,** aplicación parcial** y **orden superior**.
+Resolver los siguientes requerimientos, maximizando el uso de **composición**, **aplicación parcial** y **orden superior**.
 
 **Parte A**
 
