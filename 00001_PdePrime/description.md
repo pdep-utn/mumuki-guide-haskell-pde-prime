@@ -35,6 +35,7 @@ Lo creas o no las series tienen un bienestar.
   * Aparte de lo mencionado arriba, si la serie está cancelada, su bienestar es 0 más allá de cómo diesen el bienestar por longitud y por reparto.
 
 2. Algunos productores buscan llevar bienestar a las series. Para ellos queremos saber si un grupo de grupo de productores **sonBeneficiosos** para una serie. Esto sucede cuando cada uno le da su toque y la serie termina con un bienestar mayor a 4.
+3. Por último queremos saber si una serie **esControvertida**, esto sucede cuando no necesariamente cada actor cobra más que el siguiente.
 
 **Aclaraciones**
 
